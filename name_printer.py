@@ -3,4 +3,12 @@ def print_name(name):
         print(name)
 
 
+print_name("Bela")
 print_name("Kornel")
+
+
+def my_sum(a, b):
+    print(a + b)
+
+
+my_sum(5, 10)
